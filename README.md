@@ -19,4 +19,4 @@
 Recommendation strength was not great because of the low level of user overlap between training and test set.
 
 ## Acknowledgements
-This project was completed in conjunction with Udacity and IBM Watson.
+This project was completed in conjunction with Udacity's Data Science Nanodegree Program in partnership with IBM Watson.
